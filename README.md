@@ -53,7 +53,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tem
 4. Finally, enjoy your food
 
 ## Our Food Gallery
-1. ![Tasty Food](![Capture2](https://github.com/snehapangare/cafe_management/assets/154306103/81592fe9-1393-46ae-a591-df47e6034135))
+![Capture2](https://github.com/snehapangare/cafe_management/assets/154306103/81592fe9-1393-46ae-a591-df47e6034135))
 
 
 

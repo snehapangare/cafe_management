@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Table</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      text-align: center;
+    }
+
+    header, nav, section, footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+    }
+
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+
+    section {
+      text-align: left;
+      padding: 20px;
+    }
+
+    form {
+      width: 80%;
+      margin: auto;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+
+    input, select {
+      width: calc(100% - 22px);
+      padding: 10px;
+      margin-bottom: 15px;
+      box-sizing: border-box;
+    }
+
+    button {
+      background-color: #008000;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Book Table</h1>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#menu">Menu</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+    <a href="#book-table">Book Table</a>
+  </nav>
+
+  <section>
+    <form action="#" method="post">
+      <label for="firstName">First Name</label>
+      <input type="text" id="firstName" name="firstName" required>
+
+      <label for="lastName">Last Name</label>
+      <input type="text" id="lastName" name="lastName" required>
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="tableType">Table Type</label>
+      <select id="tableType" name="tableType" required>
+        <option value="standard">Standard</option>
+        <option value="VIP">VIP</option>
+      </select>
+
+      <label for="guestNumber">Guest Number</label>
+      <input type="number" id="guestNumber" name="guestNumber" required>
+
+      <label for="placement">Placement</label>
+      <select id="placement" name="placement" required>
+        <option value="indoor">Indoor</option>
+        <option value="outdoor">Outdoor</option>
+      </select>
+
+      <label for="date">Date</label>
+      <input type="date" id="date" name="date" required>
+
+      <label for="time">Time</label>
+      <input type="time" id="time" name="time" required>
+
+      <label for="note">Note</label>
+      <textarea id="note" name="note" rows="4"></textarea>
+
+      <button type="submit">Book Table</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Your Restaurant Name. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
+
+  

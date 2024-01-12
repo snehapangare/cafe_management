@@ -1,4 +1,3 @@
-# cafe_management
 # Sneha's Kitchen
 
 ## Navigation
@@ -54,16 +53,17 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tem
 4. Finally, enjoy your food
 
 ## Our Food Gallery
-
-
-1. ![Capture5](https://github.com/snehapangare/cafe_management/assets/154306103/f08fc87b-2479-432c-88df-9f4cf72c7a80)
-2. ![Capture2](https://github.com/snehapangare/cafe_management/assets/154306103/9fa737c9-773b-4968-a70e-4daf8ebf170c)
-3. (![home-img](https://github.com/snehapangare/cafe_management/assets/154306103/0acb3a5f-286f-4226-b7b4-646433813211)
-4. (![Capture10](https://github.com/snehapangare/cafe_management/assets/154306103/c1906d23-2754-4cfb-ae4a-599d5a8fa09c)
-5. (![p-2](https://github.com/snehapangare/cafe_management/assets/154306103/42da79ae-fe2f-45e7-9782-d6bc6d8d1526)) 
-6. (![Capture15](https://github.com/snehapangare/cafe_management/assets/154306103/597d2e5a-8113-4a66-b699-82e17e414890)
-7. (![Capture4](https://github.com/snehapangare/cafe_management/assets/154306103/050f1172-5780-4b8d-ae16-742b2e76acb8)
-8. (![s-img-1](https://github.com/snehapangare/cafe_management/assets/154306103/a46476b4-75f8-4116-959e-55ecccf1826c)
+1. ![Tasty Food](![Capture2](https://github.com/snehapangare/cafe_management/assets/154306103/81592fe9-1393-46ae-a591-df47e6034135)
+) *Order Now*
+2. ![Tasty Food](image_link) *Order Now*
+3. ![Tasty Food](image_link) *Order Now*
+4. ![Tasty Food](image_link) *Order Now*
+5. ![Tasty Food](image_link) *Order Now*
+6. ![Tasty Food](image_link) *Order Now*
+7. ![Tasty Food](image_link) *Order Now*
+8. ![Tasty Food](image_link) *Order Now*
+9. ![Tasty Food](image_link) *Order Now*
+10. ![Tasty Food](image_link) *Order Now*
 
 ## Customer Reviews
 1. **John Deo**
@@ -92,3 +92,8 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tem
 
 ## Created by
 Miss. Web Designer: Sneha Pangare | All Rights Reserved!
+
+
+
+
+

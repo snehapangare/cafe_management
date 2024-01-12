@@ -53,9 +53,16 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tem
 4. Finally, enjoy your food
 
 ## Our Food Gallery
-![Capture2](https://github.com/snehapangare/cafe_management/assets/154306103/81592fe9-1393-46ae-a591-df47e6034135))
-
-
+1. ![Tasty Food](image_link) *Order Now*
+2. ![Tasty Food](image_link) *Order Now*
+3. ![Tasty Food](image_link) *Order Now*
+4. ![Tasty Food](image_link) *Order Now*
+5. ![Tasty Food](image_link) *Order Now*
+6. ![Tasty Food](image_link) *Order Now*
+7. ![Tasty Food](image_link) *Order Now*
+8. ![Tasty Food](image_link) *Order Now*
+9. ![Tasty Food](image_link) *Order Now*
+10. ![Tasty Food](image_link) *Order Now*
 
 ## Customer Reviews
 1. **John Deo**
@@ -84,8 +91,20 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tem
 
 ## Created by
 Miss. Web Designer: Sneha Pangare | All Rights Reserved!
+## Preview
+Get a sneak peek into the delicious world of Sneha's Kitchen with our website preview below:
 
+![Sneha's Kitchen Website Preview]
 
+![Screenshot (122)](https://github.com/snehapangare/cafe_management/assets/154306103/64a32af5-4a21-487c-9f53-c6a55c1a1a62)
 
+![Screenshot (123)](https://github.com/snehapangare/cafe_management/assets/154306103/5bee76b8-5a52-4308-9805-8c79c332cce9)
 
+![Screenshot (129)](https://github.com/snehapangare/cafe_management/assets/154306103/1d37800f-aa8a-4872-9ff1-c115d01a9d66)
+
+![Screenshot (124)](https://github.com/snehapangare/cafe_management/assets/154306103/a948363e-f938-429e-87e1-1d1c1ab09edb)
+
+![Screenshot (128)](https://github.com/snehapangare/cafe_management/assets/154306103/a56f92b1-b4eb-4621-9225-599e5cbb6bc9)
+
+![Screenshot (127)](https://github.com/snehapangare/cafe_management/assets/154306103/b0922600-da29-461f-8b74-069f45f6c1db)
 

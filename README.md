@@ -56,7 +56,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tem
 ## Our Food Gallery
 
 
-1. ![Tasty Food]![Capture5](https://github.com/snehapangare/cafe_management/assets/154306103/f08fc87b-2479-432c-88df-9f4cf72c7a80) *Order Now*
+1. ![Capture5](https://github.com/snehapangare/cafe_management/assets/154306103/f08fc87b-2479-432c-88df-9f4cf72c7a80) *Order Now*
 2. ![Tasty Food](![Capture2](https://github.com/snehapangare/cafe_management/assets/154306103/9fa737c9-773b-4968-a70e-4daf8ebf170c)) *Order Now*
 3. ![Tasty Food](![home-img](https://github.com/snehapangare/cafe_management/assets/154306103/0acb3a5f-286f-4226-b7b4-646433813211)) *Order Now*
 4. ![Tasty Food](![Capture10](https://github.com/snehapangare/cafe_management/assets/154306103/c1906d23-2754-4cfb-ae4a-599d5a8fa09c)) *Order Now*

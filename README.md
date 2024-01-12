@@ -61,7 +61,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas accusamus tem
 3. ![Tasty Food](![home-img](https://github.com/snehapangare/cafe_management/assets/154306103/0acb3a5f-286f-4226-b7b4-646433813211)) *Order Now*
 4. ![Tasty Food](![Capture10](https://github.com/snehapangare/cafe_management/assets/154306103/c1906d23-2754-4cfb-ae4a-599d5a8fa09c)) *Order Now*
 5. ![Tasty Food](![p-2](https://github.com/snehapangare/cafe_management/assets/154306103/42da79ae-fe2f-45e7-9782-d6bc6d8d1526)) *Order Now*
-6. ![Tasty Food](image_link) *Order Now*![Capture15](https://github.com/snehapangare/cafe_management/assets/154306103/597d2e5a-8113-4a66-b699-82e17e414890)
+6. ![Tasty Food](![Capture15](https://github.com/snehapangare/cafe_management/assets/154306103/597d2e5a-8113-4a66-b699-82e17e414890)) *Order Now*
 7. ![Tasty Food](![Capture4](https://github.com/snehapangare/cafe_management/assets/154306103/050f1172-5780-4b8d-ae16-742b2e76acb8)) *Order Now*
 8. ![Tasty Food](![s-img-1](https://github.com/snehapangare/cafe_management/assets/154306103/a46476b4-75f8-4116-959e-55ecccf1826c)) *Order Now*
 
